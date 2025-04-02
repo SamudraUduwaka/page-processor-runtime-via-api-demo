@@ -1,4 +1,5 @@
-### via API get endpoint : https://d835f84d-fb72-430b-8a0b-06e529805888.mock.pstmn.io/portal-customization?version=v1.0&type=ORG&name=12345678
+### via API get endpoint : 
+https://d835f84d-fb72-430b-8a0b-06e529805888.mock.pstmn.io/portal-customization?version=v1.0&type=ORG&name=12345678
 
 ### Content from API
 ```
